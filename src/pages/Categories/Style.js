@@ -1,0 +1,13 @@
+import { StyleSheet, Text, View } from 'react-native'
+import React from 'react'
+
+
+
+const styles = StyleSheet.create({
+    container:{
+        flex: 1,
+        backgroundColor:'#FFA500',
+        paddingTop:25
+    }
+})
+export default styles;

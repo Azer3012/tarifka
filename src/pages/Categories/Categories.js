@@ -8,6 +8,8 @@ const Categories = () => {
     
     const renderCategory=({item})=><RenderCategory category={item.strCategory} />
     ;
+
+    
   return (
     <View style={styles.container}>
       <FlatList
